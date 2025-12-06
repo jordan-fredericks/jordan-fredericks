@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, My name is Jordan
+
+---
+
+## I am currently in school for Software Development
+
+### Some of the languages that I know are
+
+- Javascript
+- PHP
+- C#
+- C++
+- SQL
 
 <!--
 **jordan-fredericks/jordan-fredericks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
