@@ -1,7 +1,5 @@
 # Hi, My name is Jordan
 
----
-
 ## I am currently in school for Software Development
 
 ### Some of the languages that I know are
