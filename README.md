@@ -2,12 +2,12 @@
 
 ## I am currently in school for Software Development
 
-### Some of the languages that I know are
+### Some of the languages that I am most proficient in are
 
-- Javascript
-- PHP
 - C#
 - C++
+- Java
+- Javascript
 - SQL
 
 <!--
